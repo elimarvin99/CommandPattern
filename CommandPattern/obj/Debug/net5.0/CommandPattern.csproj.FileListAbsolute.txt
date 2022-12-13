@@ -1,0 +1,16 @@
+C:\Users\EliMarvin\Repos\CommandPattern\CommandPattern\bin\Debug\net5.0\CommandPattern.exe
+C:\Users\EliMarvin\Repos\CommandPattern\CommandPattern\bin\Debug\net5.0\CommandPattern.deps.json
+C:\Users\EliMarvin\Repos\CommandPattern\CommandPattern\bin\Debug\net5.0\CommandPattern.runtimeconfig.json
+C:\Users\EliMarvin\Repos\CommandPattern\CommandPattern\bin\Debug\net5.0\CommandPattern.runtimeconfig.dev.json
+C:\Users\EliMarvin\Repos\CommandPattern\CommandPattern\bin\Debug\net5.0\CommandPattern.dll
+C:\Users\EliMarvin\Repos\CommandPattern\CommandPattern\bin\Debug\net5.0\CommandPattern.pdb
+C:\Users\EliMarvin\Repos\CommandPattern\CommandPattern\obj\Debug\net5.0\CommandPattern.csproj.AssemblyReference.cache
+C:\Users\EliMarvin\Repos\CommandPattern\CommandPattern\obj\Debug\net5.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliMarvin\Repos\CommandPattern\CommandPattern\obj\Debug\net5.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\EliMarvin\Repos\CommandPattern\CommandPattern\obj\Debug\net5.0\CommandPattern.AssemblyInfo.cs
+C:\Users\EliMarvin\Repos\CommandPattern\CommandPattern\obj\Debug\net5.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\EliMarvin\Repos\CommandPattern\CommandPattern\obj\Debug\net5.0\CommandPattern.dll
+C:\Users\EliMarvin\Repos\CommandPattern\CommandPattern\obj\Debug\net5.0\refint\CommandPattern.dll
+C:\Users\EliMarvin\Repos\CommandPattern\CommandPattern\obj\Debug\net5.0\CommandPattern.pdb
+C:\Users\EliMarvin\Repos\CommandPattern\CommandPattern\obj\Debug\net5.0\CommandPattern.genruntimeconfig.cache
+C:\Users\EliMarvin\Repos\CommandPattern\CommandPattern\obj\Debug\net5.0\ref\CommandPattern.dll
